@@ -6,3 +6,5 @@ To Dos:
 - Hands-On exercise 
 - Pulling from a remote source
 - Minor note about the differnces between Git, GitHub, and GitHub Desktop
+- Here are a few more things
+- Write to Software carpentry course organisers- ask about remote attendance
