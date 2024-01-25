@@ -1,0 +1,3 @@
+Here is my first edit to this text file. 
+To Dos:
+- Complete Git Course
