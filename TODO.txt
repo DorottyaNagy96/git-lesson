@@ -1,3 +1,8 @@
 Here is my first edit to this text file. 
 To Dos:
-- Complete Git Course
+- Creating your first repo (done)
+- Add a file to the repo (done)
+- Check out the Git history (done)
+- Hands-On exercise 
+- Pulling from a remote source
+- Minor note about the differnces between Git, GitHub, and GitHub Desktop
